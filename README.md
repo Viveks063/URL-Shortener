@@ -1,4 +1,6 @@
-URL Shortener Project Summary
+URL Shortener Project 
+
+
 This is a fully functional URL shortener service with a web UI, built using Java and Spring Boot. The database (MySQL) and cache (Redis) are managed with Docker for easy setup.
 
 How to Run
